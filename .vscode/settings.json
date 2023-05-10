@@ -1,0 +1,11 @@
+{
+    "liveshare.accessibility.accessibilityFeaturesEnabled": true,
+    "liveshare.allowGuestTaskControl": true,
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.diagnosticLogging": true,
+    "liveshare.diagnosticMode": true,
+    "liveshare.guestApprovalRequired": true,
+    "liveshare.notebooks.allowGuestExecuteCells": true,
+    "liveshare.presence": true,
+    "liveshare.publishWorkspaceInfo": true
+}

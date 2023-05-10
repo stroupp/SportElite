@@ -1,0 +1,16 @@
+<svg id="inbox_1" data-name="inbox 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="inbox_1_clipping_mask" data-name="inbox 1 clipping mask" d="M0,0H24V24H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path id="inbox_1_clipping_mask-2" data-name="inbox 1 clipping mask" d="M0,0H24V24H0Z" fill="none"/>
+  <g id="inbox_1-2" data-name="inbox 1" clip-path="url(#clip-path)">
+    <g id="inbox_1-3" data-name="inbox 1">
+      <g id="Layer_29" data-name="Layer 29" transform="translate(2 4)">
+        <path id="Vector" d="M9.48,6.87l9.46-5.55A3,3,0,0,0,16.48,0h-14A3,3,0,0,0,0,1.31Z" transform="translate(0.52)"/>
+        <path id="Vector-2" data-name="Vector" d="M11,5.26a2.019,2.019,0,0,1-2,.01L0,0V9.67a3,3,0,0,0,3,3H17a3,3,0,0,0,3-3V0Z" transform="translate(0 3.33)"/>
+      </g>
+    </g>
+  </g>
+</svg>

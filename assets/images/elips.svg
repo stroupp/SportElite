@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="11" height="11" viewBox="0 0 11 11">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M11,5.5A5.5,5.5,0,1,1,5.5,0,5.5,5.5,0,0,1,11,5.5Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Ellipse_21" data-name="Ellipse 21" clip-path="url(#clip-path)">
+    <path id="Ellipse_21-2" data-name="Ellipse 21" d="M11,5.5A5.5,5.5,0,1,1,5.5,0,5.5,5.5,0,0,1,11,5.5Z" fill="#fafafa"/>
+    <path id="Ellipse_21-border" data-name="Ellipse 21-border" d="M5.5,9A3.5,3.5,0,0,0,9,5.5h4A7.5,7.5,0,0,1,5.5,13ZM-2,5.5H2A3.5,3.5,0,0,0,5.5,9v4A7.5,7.5,0,0,1-2,5.5Zm11,0a3.5,3.5,0,1,0-7,0H-2a7.5,7.5,0,1,1,15,0Z" fill="#2675ec"/>
+  </g>
+</svg>
